@@ -1,0 +1,115 @@
+        body {
+            width: 1315px;
+            background-size: cover;
+            background-color: black;
+        }
+        
+        #titulo {
+            text-align: center;
+            color: white;
+            font-family: raleway;
+            background-color: black;
+            padding-top: 0px;
+            margin-top: -4%;
+            margin-left: -2%;
+            margin-right: -2%;
+            font-size: 32px;
+            margin-bottom: -3%;
+        }
+        
+        #imagenprincipal {
+            padding-left: 58px;
+        }
+        
+        #centro {
+            background-color: black;
+            width: 1315px;
+            background-size: 100%;
+            text-align: center;
+        }
+        
+        #centro img {
+            width: max-content;
+            height: 237px;
+            position: relative;
+            left: 280px;
+            bottom: 80px;
+            margin-top: -3%;
+        }
+        
+        #centro p {
+            position: relative;
+            color: aliceblue;
+            text-align: left;
+            width: 32%;
+            top: 100px;
+            left: 190px;
+            font-family: raleway;
+        }
+        
+        #caracteristicas {
+            text-align: center;
+            color: white;
+            font-size: 30px;
+            font-family: raleway;
+            background-color: #1E1A13;
+            width: 1338px;
+            background-size: cover;
+            padding-bottom: 70px;
+            padding-top: 13px;
+        }
+        
+        i {
+            margin-right: 0px;
+            margin-top: 0px;
+            width: 400px;
+            margin-bottom: 0px;
+        }
+        
+        #tercer-ojo {
+            margin-right: 810px;
+            font-family: raleway, light;
+            margin-top: 2%;
+        }
+        
+        #pacificas {
+            margin-top: -4.5%;
+            text-align: center;
+        }
+        
+        #cambiocolor {
+            margin-left: 820px;
+            margin-top: -4.5%;
+        }
+        
+        #fotosfinales {
+            background-color: black;
+            width: 1280px;
+        }
+        
+        #fotosfinales img {
+            top: 1561px;
+            left: 150px;
+            width: 316px;
+            height: 202px;
+            display: inline;
+            margin: 1px;
+            padding: 10px;
+            position: static;
+            padding-left: 7%;
+            max-width: max-content;
+        }
+        
+        footer {
+            font-family: raleway;
+            color: white;
+            text-align: center;
+            background-color: #1E1A13;
+            background-size: cover;
+            width: 1340px;
+            padding-bottom: 30px;
+        }
+        
+        footer p {
+            padding-top: 50px;
+        }

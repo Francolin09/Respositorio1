@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+}
+
+#menu {
+    background-color: black;
+    width: 100%;
+    display: inline-flex;
+    background-size: cover;
+    margin-top: -1%;
+}
+
+#Proxima-charla {
+    background-color: brown;
+    height: 350px;
+}
+
+#eventos-anteriores {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: aliceblue;
+}
+
+li {
+    float: left;
+    margin-left: 8%;
+    color: black;
+}
+
+li a {
+    display: block;
+    padding: 25px;
+    color: aliceblue;
+}
+
+#imagen0 {
+    width: 100%;
+}
+
+#texto1 {
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    color: aliceblue;
+    font-size: 26px;
+    text-align: right;
+    font-style: normal;
+    width: 600px;
+}
+
+#texto1 h2 {
+    font-size: 23px;
+    font-weight: 4px;
+}
+
+#inicio {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#ubicacion {
+    margin-top: 70px;
+}
+
+#textoubicacion {
+    text-align: center;
+    width: 400px;
+    position: relative;
+    left: 34%;
+}
+
+#imagen1 {
+    position: relative;
+    right: 20%;
+    top: 80px;
+}
+
+#textocharla {
+    position: relative;
+    left: 40%;
+    text-align: left;
+    bottom: 140px;
+    width: 400px;
+    line-height: 14px;
+}
+
+#contacto {
+    background-color: black;
+    color: aliceblue;
+}
